@@ -31,4 +31,3 @@ jobs:
       - name: Terraform Validate
         working-directory: environments/dev
         run: terraform validate
-S
